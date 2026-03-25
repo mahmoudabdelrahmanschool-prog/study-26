@@ -1,0 +1,7 @@
+{
+  "name": "study 26",
+  "description": "An all-in-one AI educational assistant for students featuring chat, course generation, quizzes, exams, and document/presentation makers.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
